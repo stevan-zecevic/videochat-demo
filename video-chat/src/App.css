@@ -1,0 +1,32 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.myId {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 16rem;
+  border-radius: 5px;
+  background: #e6e6e6;
+
+  padding: 2rem;
+}
+
+.call-button {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.video-container {
+  margin-right: 5rem;
+}
+
+.caller {
+  text-align: center;
+}
